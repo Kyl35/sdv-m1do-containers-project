@@ -37,3 +37,11 @@ Ouvrir `localhost:3000` dans un navigateur, pour se connecter au Front-End.
 
 Ouvrir `localhost:80` dans un navigateur, pour se connecter à l'API.
 
+Commande docker pour avoir l'image de l'app web :
+
+`docker pull hadeon373/sdv-m1do-containers-project-web:V1`
+`docker pull hadeon373/hadeon_sdv-m1do-containers-project-api:V1`
+
+Lien pour visualiser l'images de l'app web sur docker hub :
+[App web](https://hub.docker.com/r/hadeon373/sdv-m1do-containers-project-web?uuid=41458A97-4571-4666-81C1-4492E8CB5689)
+[App api](https://hub.docker.com/r/hadeon373/hadeon_sdv-m1do-containers-project-api?uuid=41458A97-4571-4666-81C1-4492E8CB5689)
