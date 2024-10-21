@@ -22,6 +22,6 @@ Exécuter `npm run build` pour lancer l'application, et executer `npm run start`
 
 ## Application
 ### Environnement standardisé
-Exécuter 'git clone [htt](https://github.com/Kyl35/sdv-m1do-containers-project.git)' pour récupérer l'ensemble des fichiers.
-Executer 'docker-compose up --build' pour lancer la construction de l'environnement.
-Ouvrir 'localhost:3000' pour vérifier le fonctionnement de l'environnement.
+Exécuter `git clone https://github.com/Kyl35/sdv-m1do-containers-project.git` pour récupérer l'ensemble des fichiers.
+Executer `docker-compose up --build` pour lancer la construction de l'environnement.
+Ouvrir `localhost:3000` dans un navigateur, pour vérifier le fonctionnement de l'environnement.
