@@ -1,49 +1,22 @@
 # Sup de Vinci - Containers module project
-
 *Tested with `rust v1.82.0` et `node 23.0.0`.*
-
 ## Development
 
 ### API
-
 #### Basics
-
-Use `cargo run` to start the dev environment.
-
-You can also install [cargo-watch](https://crates.io/crates/cargo-watch) to watche over your project's source for changes, and runs Cargo commands when they occur : `cargo-watch -x run`.
-
-#### Using Docker
-
-> TODO
+Utiliser `cargo run` pour lancer l'environnement de dev.
+On peux également installer [cargo-watch](https://crates.io/crates/cargo-watch) pour surveiller les modifications de la source de votre projet et exécuter les commandes Cargo lorsqu'elles se produisent : `cargo-watch -x run`.
 
 ### Web
-
 #### Basics
-
-Use `npm install` to install all dependancies, and `npm run dev` to start the dev environment.
-
-#### Using Docker
-
-> TODO
+Utiliser `npm install` pour installer toutes les dépendances, et `npm run dev` pour lancer l'environement de dev.
 
 ## Production
-
 ### API
-
 #### Basics
-
-Run `cargo build --release` to build and compile the app. This will create an executable in `/target/release/sdv-api`.
-
-#### Using Docker
-
-> TODO
+Executer `cargo build --release` pour build et compiler l'application. Cela créera un exécutable dans `/target/release/sdv-api`.
 
 ### Web
-
 #### Basics
+Executer `npm run build` pour lancer l'application, et executer `npm run start` pour lancer le Node.js server. 
 
-Run `npm run build` to build the application, and run `npm run start` to start the Node.js server. 
-
-#### Using Docker
-
-> TODO
