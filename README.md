@@ -22,9 +22,9 @@ Exécuter `npm run build` pour lancer l'application, et executer `npm run start`
 
 ## Application
 ## Prérequis
-Installer `Docker` : [Site Docker installation](https://www.docker.com/products/docker-desktop/)
+Installer `Docker` : [Lien du site de Docker pour installer Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
-Installer `Git` : [Site Git installation](https://git-scm.com/)
+Installer `Git` : [Lien du site de Git pour l'installer](https://git-scm.com/)
 
 ### Environnement standardisé
 Exécuter `git clone https://github.com/Kyl35/sdv-m1do-containers-project.git` pour récupérer l'ensemble des fichiers.
