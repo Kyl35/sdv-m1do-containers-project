@@ -14,9 +14,14 @@ Utiliser `npm install` pour installer toutes les dépendances, et `npm run dev` 
 ## Production
 ### API
 #### Basics
-Executer `cargo build --release` pour build et compiler l'application. Cela créera un exécutable dans `/target/release/sdv-api`.
+Exécuter `cargo build --release` pour build et compiler l'application. Cela créera un exécutable dans `/target/release/sdv-api`.
 
 ### Web
 #### Basics
-Executer `npm run build` pour lancer l'application, et executer `npm run start` pour lancer le Node.js server. 
+Exécuter `npm run build` pour lancer l'application, et executer `npm run start` pour lancer le Node.js server. 
 
+## Application
+### Environnement standardisé
+Exécuter 'git clone [htt](https://github.com/Kyl35/sdv-m1do-containers-project.git)' pour récupérer l'ensemble des fichiers.
+Executer 'docker-compose up --build' pour lancer la construction de l'environnement.
+Ouvrir 'localhost:3000' pour vérifier le fonctionnement de l'environnement.
